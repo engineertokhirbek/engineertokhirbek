@@ -1,69 +1,81 @@
-<h1 align="center">Salom 👋, men Tokhirbekman</h1>
-<h3 align="center">Backend & Bot Developer | Vue Frontend | Robotics 💡</h3>
+<h1 align="center">👋 Salom, men Tokhirbek!</h1>
+<h3 align="center">👨‍💻 Golang Backend | Vue Frontend | Telegram Bots | Robotics fanati 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;VueJS+Frontendchi;PostgreSQL+ORM+ishqibozi;Telegram+Bot+yazuvchi;Always+learning+new+techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=00FFC0&center=true&vCenter=true&lines=Clean+Code+Lover;VueJS+Frontendchi;Go+%2B+PostgreSQL+Backend;gotgbot+Bot+yazuvchi" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Foydalanadigan texnologiyalar:
+### 🚀 Texnologiyalar & Frameworklar
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" />
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://gin-gonic.com/">
-    <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  </a>
-  <a href="https://gorm.io/">
-    <img src="https://img.shields.io/badge/GORM-ORM-blueviolet?style=for-the-badge" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://github.com/PaulSonOfLars/gotgbot">
-    <img src="https://img.shields.io/badge/Telegram%20Bot-gotgbot-blue?style=for-the-badge&logo=telegram" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5 - Web strukturasi"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3 - Sahifa dizayni"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript - Interaktiv frontend"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://vuejs.org/" title="VueJS - Reactive frontend framework"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="https://go.dev/" title="Go - Backend uchun eng zo‘r til"><img src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://gin-gonic.com/" title="Gin - Go web framework"><img src="https://img.shields.io/badge/Gin-Gonic-blue?style=flat-square&logo=go" /></a>
+  <a href="https://gorm.io/" title="GORM - Go ORM"><img src="https://img.shields.io/badge/GORM-ORM-9cf?style=flat-square" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL - Kuchli SQL bazasi"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://github.com/PaulSonOfLars/gotgbot" title="gotgbot - Telegram bot uchun Go kutubxonasi"><img src="https://img.shields.io/badge/gotgbot-Telegram-blue?style=flat-square&logo=telegram" /></a>
 </p>
 
 ---
 
-### 🚀 Loyiha Portfoliom:
+### 📂 Mening loyihalarim
 
-| 💻 Loyiha | 🛠️ Texnologiyalar | 🔗 Havola |
-|----------|--------------------|-----------|
-| **🧾 Mini CRM** | Golang, Gin, PostgreSQL, GORM | [Repo](https://github.com/username/mini-crm) |
-| **📊 Vue Dashboard** | Vue.js, Tailwind CSS, REST API | [Repo](https://github.com/username/vue-dashboard) |
-| **🤖 Telegram Bot** | Golang, gotgbot | [Repo](https://github.com/username/telegram-bot) |
+#### 🔧 Mini CRM
+> Yengil bizneslar uchun yozilgan backend CRM tizimi
+
+🧪 **Tech:** Golang · Gin · PostgreSQL · GORM  
+🔗 [Repo Havola](https://github.com/username/mini-crm)  
+🎥 [Live demo video](https://youtu.be/your-demo-video) *(xohlasang yuklash mumkin)*
 
 ---
 
-### 📈 GitHub Statistikam
+#### 📊 Vue Dashboard
+> Real-time statistika ko‘rsatadigan UI dashboard
+
+🧪 **Tech:** VueJS · Chart.js · TailwindCSS  
+🔗 [Repo Havola](https://github.com/username/vue-dashboard)  
+📸 **Preview:**  
+![Dashboard Screenshot](https://your-image-host.com/vue-dashboard.gif)
+
+---
+
+#### 🤖 Telegram Bot
+> Avtojavobchi va inline commandlar bilan qulay Telegram boti
+
+🧪 **Tech:** Golang · gotgbot · Webhook  
+🔗 [Repo Havola](https://github.com/username/telegram-bot)
+
+---
+
+### 📈 GitHub Faolligim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-### 📫 Muloqot uchun
+### 📬 Muloqot qilish:
 
 <p align="center">
-  <a href="mailto:tokhir@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/tokhirdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://tokhir.dev"><img src="https://img.shields.io/badge/Portfolio-00A36C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:tokhir@example.com"><img src="https://img.shields.io/badge/email-send-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://t.me/tokhirdev"><img src="https://img.shields.io/badge/telegram-@tokhirdev-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://tokhir.dev"><img src="https://img.shields.io/badge/portfolio-website-00cc99?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-> “Kod bu san’at — men esa uni yozuvchi rassom.” 🎨
+### 💡 Developer quote
+
+> *“Don’t comment bad code — rewrite it.”* — Brian W. Kernighan  
+> *"Men kod yozmayman, men fikrni ifodalayman."* – Tokhirbek 😉
 
