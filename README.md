@@ -1,5 +1,5 @@
-<h1 align="center">👋 Salom, men Tokhirbek!</h1>
-<h3 align="center">👨‍💻 Golang Backend | Vue Frontend | Telegram Bots | Robotics fanati 🤖</h3>
+<h1 align="center">👋 Hi, I am Tokhirbek!</h1>
+<h3 align="center">👨‍💻 Golang Backend | Vue Frontend | Telegram Bot | Robotics Engineer 🤖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=00FFC0&center=true&vCenter=true&lines=Clean+Code+Lover;VueJS+Frontendchi;Go+%2B+PostgreSQL+Backend;gotgbot+Bot+yazuvchi" alt="Typing SVG" />
