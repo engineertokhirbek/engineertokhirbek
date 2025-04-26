@@ -1,57 +1,69 @@
-<h1 align="center">Salom 👋, men Tokhirbekman!</h1>
-<h3 align="center">Backend developer (Golang), VueJS frontendchi va robotics ishqibozi 🤖</h3>
+<h1 align="center">Salom 👋, men Tokhirbekman</h1>
+<h3 align="center">Backend & Bot Developer | Vue Frontend | Robotics 💡</h3>
 
----
-
-### 🧰 Texnologiyalar & Qisqacha Ma'lumotlar
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;VueJS+Frontendchi;PostgreSQL+ORM+ishqibozi;Telegram+Bot+yazuvchi;Always+learning+new+techs" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Men foydalanadigan texnologiyalar:
+### 🛠️ Foydalanadigan texnologiyalar:
 
-- **HTML/CSS/JavaScript** – Web sahifalarni yaratish va dizayn qilish uchun asos.
-- **Vue.js** – Frontend interaktivlik va componentlar asosida UI yaratishda.
-- **Golang (Go)** – Tez va samarali backend xizmatlari yozishda.
-- **Gin** – Go uchun juda yengil va kuchli web framework.
-- **PostgreSQL** – Ishonchli va kuchli relatsion ma'lumotlar bazasi.
-- **GORM** – Go uchun ORM kutubxonasi, SQL yozishni soddalashtiradi.
-- **gotgbot** – Telegram botlar yozish uchun Go kutubxonasi.
-
----
-
-### 📂 Loyihalarim:
-
-| Loyiha | Texnologiyalar | Havola |
-|--------|----------------|--------|
-| **Mini CRM tizimi** | Golang, Gin, PostgreSQL, GORM | [github.com/username/mini-crm](https://github.com/username/mini-crm) |
-| **Vue Frontend Dashboard** | Vue.js, Tailwind CSS, REST API | [github.com/username/vue-dashboard](https://github.com/username/vue-dashboard) |
-| **Telegram bot (autoresponder)** | Golang, gotgbot | [github.com/username/telegram-bot](https://github.com/username/telegram-bot) |
-
----
-
-### 📫 Aloqa uchun:
-- Email: tokhir@example.com  
-- Telegram: [@tokhirdev](https://t.me/tokhirdev)  
-- Portfolio: [tokhir.dev](https://tokhir.dev)
-
----
-
-### 📊 GitHub statistikasi:
-![Tokhirbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+  <a href="https://gin-gonic.com/">
+    <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+  <a href="https://gorm.io/">
+    <img src="https://img.shields.io/badge/GORM-ORM-blueviolet?style=for-the-badge" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://github.com/PaulSonOfLars/gotgbot">
+    <img src="https://img.shields.io/badge/Telegram%20Bot-gotgbot-blue?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
 
 ---
 
-```bash
-# Profil README qo'shish:
-1. GitHub’da `yourusername/yourusername` nomli yangi repository yarat.
-2. Unda `README.md` fayl och.
-3. Yuqoridagi kodni joylashtir.
+### 🚀 Loyiha Portfoliom:
+
+| 💻 Loyiha | 🛠️ Texnologiyalar | 🔗 Havola |
+|----------|--------------------|-----------|
+| **🧾 Mini CRM** | Golang, Gin, PostgreSQL, GORM | [Repo](https://github.com/username/mini-crm) |
+| **📊 Vue Dashboard** | Vue.js, Tailwind CSS, REST API | [Repo](https://github.com/username/vue-dashboard) |
+| **🤖 Telegram Bot** | Golang, gotgbot | [Repo](https://github.com/username/telegram-bot) |
+
+---
+
+### 📈 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Muloqot uchun
+
+<p align="center">
+  <a href="mailto:tokhir@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/tokhirdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://tokhir.dev"><img src="https://img.shields.io/badge/Portfolio-00A36C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+> “Kod bu san’at — men esa uni yozuvchi rassom.” 🎨
+
