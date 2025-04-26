@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Golang Backend | Vue Frontend | Telegram Bot | Robotics Engineer 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=00FFC0&center=true&vCenter=true&lines=Clean+Code+Lover;VueJS+Frontendchi;Go+%2B+PostgreSQL+Backend;gotgbot+Bot+yazuvchi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=00FFC0&center=true&vCenter=true&lines=Clean+Code+Lover;VueJS+Developer;Go+%2B+PostgreSQL+Backend+Engineer;gotgbot+Bot+developer" alt="Typing SVG" />
 </p>
 
 ---
